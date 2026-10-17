@@ -13,7 +13,7 @@ A full-stack blog application built using React.js, Node.js, Express.js, MongoDB
 React.js • Node.js • Express.js • MongoDB • Firebase
 
 ### Live Demo
-blog-portfolio-sage.vercel.app
+https://blog-portfolio-sage.vercel.app/home
 
 email:doomsday@gmail.com
 pass:18122026
